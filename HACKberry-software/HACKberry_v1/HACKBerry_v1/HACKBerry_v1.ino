@@ -11,11 +11,11 @@
 
 //Motor angle setting
 #define thumbExtend   158
-#define thumbPinch    60
-#define IndexExtend   150   //extend
-#define IndexFlex     27    //flex
-#define middleExtend  102   //extend
-#define middleFlex    35    //flex
+#define thumbPinch    45
+#define IndexExtend   140   //extend
+#define IndexFlex     30   //flex
+#define middleExtend  130   //extend
+#define middleFlex    35   //flex
 
 const int calibPin0     = A6;   //For calibration
 //const int calibPin1     = A5;  //not in use

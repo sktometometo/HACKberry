@@ -1,0 +1,7 @@
+# SolidEdge—p
+*.cfg
+*.log
+
+# Inventor—p
+/**/OldVersions/
+/**/lockfile.lck
